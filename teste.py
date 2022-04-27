@@ -3,3 +3,4 @@ b=15
 c=20
 print (a+b)
 print (a+b+c)
+print(a+c)
